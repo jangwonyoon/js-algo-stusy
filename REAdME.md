@@ -15,14 +15,19 @@
 
 ## ✔️ 체크리스트 (매주 업데이트)
 
+✅ : 함
+❌ : 안함
+
 ### Week 1
 
 문제 :
-
+[merge sorted](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150)
+[Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150)
+[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 | 참여자 | 문제 풀이 | 코드 리뷰 | 회고 작성 |
 | ------ | --------- | --------- | --------- |
-| SJ     |  [X]  |   |    |
-| JW     |    |   |    |
+| SJ | ✅ | | |
+| JW | ✅ | | |
 
 ### Week 2
 
